@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>classify</folder>
+	<filename>cropped1.jpg</filename>
+	<path>C:\Users\tanje\Desktop\Rune Detection\classify\cropped1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>38</width>
+		<height>31</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

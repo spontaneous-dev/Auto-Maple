@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cropped_boxes</folder>
+	<filename>cropped78.jpg</filename>
+	<path>C:\Users\tanje\Desktop\Rune Detection\cropped_boxes\cropped78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rune_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>148</ymin>
+			<xmax>476</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>
